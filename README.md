@@ -11,6 +11,8 @@
 - python
 - Django
 - React
+- MySql
+![img](./img/Django_React_img.png)
 
 ## React追加モジュール
 ```
@@ -19,4 +21,11 @@ npm install react-chartjs-2 chart.js
 - [react-chartjs-2 使い方まとめ](https://zenn.dev/saito2321/articles/85cfe362749f37)
 
 ## フロント画面(デザイン)
-![フロント画面イメージ](./img/image_display.png)
+- ヘッダー・title
+![alt text](./img/img01.png)
+
+- section1
+![alt text](./img/img02.png)
+
+- section2
+![alt text](./img/img03.png)
