@@ -12,5 +12,11 @@
 - Django
 - React
 
+## React追加モジュール
+```
+npm install react-chartjs-2 chart.js
+```
+- [react-chartjs-2 使い方まとめ](https://zenn.dev/saito2321/articles/85cfe362749f37)
+
 ## フロント画面(デザイン)
-/Users/div/workbench/ConceptTrainApp/Design
+![フロント画面イメージ](./img/image_display.png)
