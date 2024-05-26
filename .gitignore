@@ -1,0 +1,23 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/Design/pre-train-design/node_modules
+/Design/pre-train-design/.pnp
+/Design/pre-train-design/.pnp.js
+
+# testing
+/Design/pre-train-design/coverage
+
+# production
+/Design/pre-train-design/build
+
+# misc
+/Design/pre-train-design/.DS_Store
+/Design/pre-train-design/.env.local
+/Design/pre-train-design/.env.development.local
+/Design/pre-train-design/.env.test.local
+/Design/pre-train-design/.env.production.local
+
+/Design/pre-train-design/npm-debug.log*
+/Design/pre-train-design/yarn-debug.log*
+/Design/pre-train-design/yarn-error.log*
